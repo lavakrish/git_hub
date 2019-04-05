@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-reverse()
+rev()
 {
    int n, reverse = 0;
 
