@@ -2,7 +2,7 @@
 big()
 {
     double n1, n2, n3;
-
+#this is big three
     printf("Enter three different numbers: ");
     scanf("%lf %lf %lf", &n1, &n2, &n3);
 
